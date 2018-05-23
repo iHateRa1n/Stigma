@@ -1,0 +1,10 @@
+Stigma is an untethered iOS 9.3.5 Jailbreak. 
+Downgrade to 8.4.1. 
+JB with #EtasonJB. 
+Run the following command. 
+
+./jailbreak
+
+And at the prompt, type your device's IP address. 
+
+Stigma was developed by the iSec Team, and mainly iH8Ra1n. If this is distributed without this notice, you are going against our team, and you WILL be exposed. 
