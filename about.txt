@@ -1,4 +1,4 @@
-Stigma is an untethered iOS 9.3.5 Jailbreak. 
+Stigma10 is an untethered iOS 10.3.3 Jailbreak. 
 Downgrade to 8.4.1. 
 JB with #EtasonJB. 
 Run the following command. 
