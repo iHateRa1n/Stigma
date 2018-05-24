@@ -2,6 +2,7 @@ Stigma is an untethered iOS 9.3.5 Jailbreak.
 Downgrade to 8.4.1. 
 JB with #EtasonJB. 
 Run the following command. 
+Ensure you have APT 0.7 Strict, the CoolBooter repo, and OpenSSH! 
 
 ./jailbreak
 
