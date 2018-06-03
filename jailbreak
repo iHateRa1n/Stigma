@@ -1,11 +1,11 @@
 #!/usr/bin/python
 import os
 
-print("Stigma Untethered 9.3.5 Jailbreak")
+print("Stigma Untethered Jailbreak + Downgrade")
 ip=raw_input("enter 8.4.1's ip: ")
 
 print("Type yes, press enter, and type your root passwd. Then do it again. (default is alpine. make sure you have OpenSSH, the Coolbooter repo, and APT 0.7 Strict. )")
 os.system("cat jailbreak.sh | ssh root@"+ip+" sh -c 'cat - > jb.sh'")
 os.system("ssh root@"+ip+" 'sh jb.sh'")
-print("Thank you for jailbreaking with the Stigma untethered Jailbreak. ")
+print("Thank you for downgrading with the Stigma untethered Downgrade + Jailbreak. ")
 
