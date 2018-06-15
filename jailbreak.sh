@@ -1,4 +1,3 @@
-echo "Mad-props to @JonathanSeals, for CoolBooter and CoolBooterCLI"
 echo "Stigma is installing, please wait... "
 if [ ! -f already_run ]; then
     apt-get update
